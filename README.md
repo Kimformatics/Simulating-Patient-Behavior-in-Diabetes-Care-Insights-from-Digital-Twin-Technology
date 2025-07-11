@@ -2,6 +2,7 @@ Inspired by my daily work in diabetes, this is a personal project titled: "Simul
 
 
 Key References:
+
 https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1178912/full
 https://www.nature.com/articles/s41598-024-76584-7
 https://www.nature.com/articles/s41598-024-58703-6
