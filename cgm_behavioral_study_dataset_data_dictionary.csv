@@ -1,0 +1,74 @@
+Variable,Description
+patient_id,Unique patient identifier
+age,Patient age in years
+gender,Patient gender
+diabetes_type,Type of diabetes
+duration_diabetes,Duration of diabetes in years
+education_level,Highest education level completed
+employment_status,Current employment status
+insurance_type,Type of health insurance
+household_income,Annual household income in USD
+hba1c_baseline,Baseline HbA1c percentage
+bmi,Body Mass Index
+tech_comfort,Technology comfort level (1-10 scale)
+health_literacy,Health literacy level (1-10 scale)
+openness_to_change,Openness to change personality trait (1-10 scale)
+anxiety_tendency,Anxiety tendency personality trait (1-10 scale)
+perfectionism,Perfectionism personality trait (1-10 scale)
+ever_used_cgm,Whether patient ever used CGM
+months_of_use,Number of months in study with CGM data
+total_break_episodes,Total number of break episodes
+longest_break_duration,Duration of longest break in months
+current_usage_status,Current CGM usage status category
+avg_monthly_usage_pct,Average monthly usage percentage
+primary_break_reason,Primary reason for most recent/longest break
+all_break_reasons,All break reasons experienced
+month_1_usage,Usage percentage in month 1
+month_6_usage,Usage percentage in month 6
+month_12_usage,Usage percentage in month 12
+usage_trend,Overall usage trend over time
+reasons_for_non_adoption,Reasons for non-adoption (for non-users)
+baseline_diabetes_distress,Baseline diabetes distress (0-10 scale)
+current_diabetes_distress,Current diabetes distress (0-10 scale)
+baseline_anxiety,Baseline anxiety level (0-10 scale)
+current_anxiety,Current anxiety level (0-10 scale)
+baseline_depression,Baseline depression level (0-10 scale)
+current_depression,Current depression level (0-10 scale)
+alarm_fatigue,CGM alarm fatigue level (0-10 scale)
+information_overload,Information overload from CGM (0-10 scale)
+sleep_disruption,Sleep disruption from CGM (0-10 scale)
+tech_stress,Technology-related stress (0-10 scale)
+body_image_impact,Body image impact from wearing CGM (0-10 scale)
+social_stigma_concern,Social stigma concern about CGM (0-10 scale)
+diabetes_self_efficacy,Diabetes self-efficacy (0-10 scale)
+treatment_satisfaction,Treatment satisfaction (0-10 scale)
+fear_of_hypoglycemia,Fear of hypoglycemia (0-10 scale)
+family_support,Family support level (0-10 scale)
+peer_support,Peer support level (0-10 scale)
+hcp_support,Healthcare provider support (0-10 scale)
+problem_focused_coping,Problem-focused coping (0-10 scale)
+emotion_focused_coping,Emotion-focused coping (0-10 scale)
+avoidance_coping,Avoidance coping (0-10 scale)
+perceived_clinical_value,Perceived clinical value of CGM (1-10 scale)
+perceived_convenience_value,Perceived convenience value (1-10 scale)
+perceived_lifestyle_burden,Perceived lifestyle burden (1-10 scale)
+perceived_cost_effectiveness,Perceived cost-effectiveness (1-10 scale)
+overall_perceived_value,Overall perceived value (1-10 scale)
+willingness_to_try_continue,Willingness to try/continue CGM (1-10 scale)
+recommendation_likelihood,Likelihood to recommend CGM (1-10 scale)
+trust_in_technology,Trust in CGM technology (1-10 scale)
+cost_barrier_perception,Cost barrier perception (1-10 scale)
+complexity_barrier_perception,Complexity barrier perception (1-10 scale)
+access_barrier_perception,Access barrier perception (1-10 scale)
+data_actionability_perception,Data actionability perception (1-10 scale)
+accuracy_satisfaction,Satisfaction with CGM accuracy (1-10 scale)
+alarm_satisfaction,Satisfaction with CGM alarms (1-10 scale)
+age_group,Age group category
+income_bracket,Household income bracket
+hba1c_category,HbA1c control category
+bmi_category,BMI category
+psychological_burden_score,Composite psychological burden score
+support_score,Composite support score
+barrier_score,Composite barrier score
+cgm_success,CGM success indicator (boolean)
+high_satisfaction,High satisfaction indicator (boolean)
